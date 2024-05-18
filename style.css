@@ -1,0 +1,62 @@
+*
+{
+    box-sizing: border-box;
+    opacity: 30;
+}
+.main
+{
+    text-align:center;
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:  40px;
+    padding: 0;
+    border-color: blueviolet;
+}
+.block
+{
+    text-align: center;
+    padding:20px;
+    display: inline;
+    color:blue;
+    font-size:20px;
+}
+.title
+{
+    display: inline;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 100px;
+    margin-inline: 30px;
+    margin-top: 200px;
+    
+}
+input[type=button]
+{
+    width:150px;
+    margin-left:35%;
+    margin-top:40px;
+    outline:none;
+    border:none;
+    border-radius:2px;
+    background-color: blue;
+    padding:14px 16px;
+    color:white;
+    font-size:17px;
+    margin-top:200px;
+}
+.mains
+{
+    box-sizing:border-box ;
+}
+.age
+{
+    text-align: center;
+    margin: 100px;
+    color:black;
+
+}
+input[type=text]
+{
+    text-align:center;
+}
